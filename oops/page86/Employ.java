@@ -1,3 +1,5 @@
+package java_revision.oops.page86;
+
 class Employ
 {
 	static String comp_name="ARMY Pvt Ltd";
