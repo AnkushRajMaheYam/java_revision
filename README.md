@@ -47,3 +47,7 @@ Feel free to explore more of my work and get in touch:
 
 ## 🔥 **Hashtags & Keywords**
 #JavaRevision #JavaProgramming #DataStructures #Algorithms #OOP #JavaBasics #JavaInterview #TechLearning #JavaDeveloper #SoftwareDeveloper
+
+## Disclaimer
+
+The code provided in this repository has **not been tested by a professional coder or programmer** and may contain bugs. It is the user's responsibility to thoroughly test the code and make any necessary adjustments. The code is intended for **educational purposes only** and should not be used in production environments.
